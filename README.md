@@ -1,5 +1,7 @@
 # scrabble_helper
-got sick of losing to my family in scrabble :<
+got sick of losing to my family in scrabble :< 
+
+creates a list of words + their scrabble values out of an inputted string of letters, listed in order of scrabble value
 
 ## Usage
 requires python 3 and Sympy to help with some permutation generation. 
